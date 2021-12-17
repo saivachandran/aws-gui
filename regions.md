@@ -1,3 +1,14 @@
+# Flow chart
+
+  Regions:         location ex: mumbai                             
+                          
+  Availability-zones: ap-south-1a, ap-south-1b,ap-south-1c - physical data center isolated from each other
+
+
+ ![image](https://user-images.githubusercontent.com/42309948/146536929-bb3bffa4-84b2-4d6d-bdef-e3653a790ada.png)
+
+
+
 
 # aws regions check using aws cli
 
