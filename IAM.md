@@ -8,6 +8,9 @@ Your Whole aws security is there
 Root Account shuould be never used (and shared)
   1. user must be created with propper permission
   2. polices written in json format (java script object notation)
+  3. IAM is global view
+  4. MFA (multifactor authentication can setup)
+
  
  
  # IAM flow chart
