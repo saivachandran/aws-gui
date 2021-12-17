@@ -11,4 +11,4 @@ $ aws lightsail get-regions --query "regions[?name=='eu-west-1'].displayName" --
 
 # refer the below link
 
-[aws Regions and Azs ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+[Aws Regions and Azs ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
