@@ -7,4 +7,4 @@ $ aws ec2 describe-regions --all-regions
 
 # refer the below link
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
+[aws Regions and Azs ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
