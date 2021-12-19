@@ -27,7 +27,7 @@ Inbound rules control the incoming traffic to your instance,
 ![image](https://user-images.githubusercontent.com/42309948/146674634-d830b625-6b33-4521-a382-a0526da4a939.png)
 
 
-error it show timedout error when not allow ssh port in security group
+error it show timedut error when not allow ssh port in security group
 
 
 By default all inbound traffic is blocked
