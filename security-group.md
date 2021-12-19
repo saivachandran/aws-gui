@@ -1,4 +1,5 @@
 # security group in aws
+Security group act as firewall for ec2 instances
 
 1.security group funtamental network security in aws
 
