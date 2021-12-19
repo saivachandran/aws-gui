@@ -30,4 +30,8 @@ Inbound rules control the incoming traffic to your instance,
 it show timedout error
 
 
+By default all inbound traffic is blocked
+
+By default all outbound traffic is authorized
+
 
