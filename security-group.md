@@ -14,11 +14,11 @@
 
 1. inbound rule
 
-Allow traffic into our ec2 instances
+Inbound rules control the incoming traffic to your instance,
 
 2. outbound 
 
-Allow all traffic by default
+ outbound rules control the outgoing traffic from your instance. When you launch an instance, you can specify one or more security groups. If you don't specify a security group, Amazon EC2 uses the default security group.
 
 
 # if we remove inbound rule, we won't ssh into ec2 machine
