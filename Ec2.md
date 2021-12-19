@@ -1,5 +1,5 @@
 
-# Ec2 ins one of the most popular aws offering
+# Ec2 instance one of the most popular aws offering
 
 1. Rental virtual machines(Ec2)
 2. Storing data on virtual drives(EBS)
