@@ -45,6 +45,16 @@
   # view launched instance using ec2 instance dashboard
   
   ![image](https://user-images.githubusercontent.com/42309948/146666672-5ad333e9-3a1c-4bf6-9dd5-2c8d71be52b7.png)
+  
+  Ec2-user-data
+  =============
+  
+  1. User-data means lauching command when machine starts
+  2. script only run once when instance start
+  3. Ec2 user data run with root user
+
+![image](https://user-images.githubusercontent.com/42309948/146735635-93c88c7e-4521-4629-81f6-384faf4cced2.png)
+
 
   
 
