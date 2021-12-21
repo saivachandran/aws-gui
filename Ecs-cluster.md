@@ -34,7 +34,7 @@
   
   ![image](https://user-images.githubusercontent.com/42309948/146898507-139908ab-45f3-4426-898a-df6aac6501c0.png)
 
- # steps 1.2
+ # steps 1.1.1
   
      * provide cluster name
      * give provisional model (On demand instance)
@@ -44,7 +44,7 @@
      * EBS volume size (30)
      * key pair (Your key)
      * vpc (Defult vpc)
-     *  subnet (Three subnets)
+     * subnet (Three subnets)
      * create security group with rule
      * container instance iam role
      * click create
