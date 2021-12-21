@@ -75,14 +75,27 @@
   
   # step 2.1
   
-      * ssh -i "key_name" username@publicip
+      ssh -i "key_name" username@publicip
       
-       * check cluster configuration
+      check cluster configuration
   
   ![image](https://user-images.githubusercontent.com/42309948/146926463-7b965942-edd8-48f1-827f-865d22d5a044.png)
 
-      
+ -------------------------------------------------------------------------------------------------------------------     
   
+ # task 
+    
+      Task is JSON metadata that instructs ECs on how to run a Docker container.
+  
+       It contains crucial information about
+  
+          image name.
+
+          port bindings for container and host
+ 
+          Memory and CPU information.
+
+          environment variables. 
    
       
 
