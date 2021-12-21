@@ -41,7 +41,7 @@
      * instance type (t2.micro)
      * Number of instance (as you required)
      * Ec2 AMi id (Ecs Ami comes with docker installed on it)
-     *  EBS volume size (30)
+     * EBS volume size (30)
      * key pair (Your key)
      * vpc (Defult vpc)
      *  subnet (Three subnets)
