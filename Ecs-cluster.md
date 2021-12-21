@@ -96,6 +96,8 @@
           Memory and CPU information.
 
           environment variables. 
+  
+          Networking information.
    
       
 
