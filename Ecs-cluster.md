@@ -18,12 +18,23 @@
   
   ![image](https://user-images.githubusercontent.com/42309948/146890436-21b11fe1-417c-40d5-b74f-bbbae7c6f22c.png)
   
-<h1> select cluster template<h1/>
+<h2> select cluster template<h2/>
+  
     
 ![image](https://user-images.githubusercontent.com/42309948/146892152-aba1905a-f95d-4ffb-9dd0-a5baf3e3baad.png)
+  
+# steps
+  
+     * Select Ec2 Linux + Networking from the three options.
 
+     * Then, proceed by clicking on the next step.
+  
+  
+  
+  
+                    
 
-
+  
   
   
   
