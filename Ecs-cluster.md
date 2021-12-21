@@ -53,6 +53,42 @@
   # launch status
   
   ![image](https://user-images.githubusercontent.com/42309948/146902668-85ec8b1e-864b-4ffe-abb0-474889b6b3dc.png)
+  
+<h2> view cluster <h2/>
+  
+ ![image](https://user-images.githubusercontent.com/42309948/146908959-3bb9b007-1268-47f3-a96f-4d1c5be2999b.png)
+  
+  # Ecs cluster 
+  
+      * When we create an ECS cluster, it comes with an autoscaling group.
+      * Ec2 instance was created in the manner specified in the configuration section.
+      * The security group was created and the ecs role was also created. That needs review after the cluster is created.
+ 
+  
+  ![image](https://user-images.githubusercontent.com/42309948/146921911-7fcdfe86-31d3-4f2d-ae00-01340bf9ab0b.png)
+  
+  # step 2 
+  
+      * ssh into our created EC2 instance using the instance public IP.
+ 
+  ![image](https://user-images.githubusercontent.com/42309948/146923284-405d5591-0454-4b80-8e68-73fafbe8fa6f.png)
+  
+  # step 2.1
+  
+      * ssh -i "key_name" username@publicip
+      
+       * check cluster configuration
+  
+  ![image](https://user-images.githubusercontent.com/42309948/146926463-7b965942-edd8-48f1-827f-865d22d5a044.png)
+
+      
+  
+   
+      
+
+  
+
+  
 
   
   
