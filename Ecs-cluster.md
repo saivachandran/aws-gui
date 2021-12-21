@@ -34,7 +34,7 @@
   
   ![image](https://user-images.githubusercontent.com/42309948/146898507-139908ab-45f3-4426-898a-df6aac6501c0.png)
 
- # steps 1.1.1
+ # steps 1.1
   
      * provide cluster name
      * give provisional model (On demand instance)
@@ -49,7 +49,12 @@
      * container instance iam role
      * click create
   
-     
+  
+  # launch status
+  
+  ![image](https://user-images.githubusercontent.com/42309948/146902668-85ec8b1e-864b-4ffe-abb0-474889b6b3dc.png)
+
+  
   
   
   
