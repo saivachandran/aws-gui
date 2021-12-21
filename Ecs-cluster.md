@@ -23,11 +23,35 @@
     
 ![image](https://user-images.githubusercontent.com/42309948/146892152-aba1905a-f95d-4ffb-9dd0-a5baf3e3baad.png)
   
-# steps
+#  step 1
   
      * Select Ec2 Linux + Networking from the three options.
 
      * Then, proceed by clicking on the next step.
+  
+ 
+ # step 1.1
+  
+  ![image](https://user-images.githubusercontent.com/42309948/146898507-139908ab-45f3-4426-898a-df6aac6501c0.png)
+
+ # steps 1.2
+  
+     * provide cluster name
+     * give provisional model (On demand instance)
+     * instance type (t2.micro)
+     * Number of instance (as you required)
+     * Ec2 AMi id (Ecs Ami comes with docker installed on it)
+     *  EBS volume size (30)
+     * key pair (Your key)
+     * vpc (Defult vpc)
+     *  subnet (Three subnets)
+     * create security group with rule
+     * container instance iam role
+     * click create
+  
+     
+  
+  
   
   
   
