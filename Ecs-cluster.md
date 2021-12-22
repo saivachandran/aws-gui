@@ -8,7 +8,7 @@
 
 <h2> Flow chart <h2/>
   
-  ![image](https://user-images.githubusercontent.com/42309948/146877472-30c872e8-2880-4c22-8209-cd4ff0728cdc.png)
+![image](https://user-images.githubusercontent.com/42309948/147031202-bf8e91b4-e20f-4706-b167-80b39acebbcc.png)
 
 <h2> ECS Dashboard <h2/>
   
