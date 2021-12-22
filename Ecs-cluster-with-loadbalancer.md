@@ -42,8 +42,7 @@
 ![image](https://user-images.githubusercontent.com/42309948/147085886-833e8c71-0ba2-4cdc-9f3d-53c7e9140abc.png)
 
 # check url with port number
-
-curl localhost 49163
+http://ecs-alb-1248237640.eu-west-1.elb.amazonaws.com/
 
 
 
