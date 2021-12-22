@@ -160,13 +160,48 @@
   
  ![image](https://user-images.githubusercontent.com/42309948/147029710-0e277a66-c647-4d14-a0e3-e3db41f4e014.png)
 
-  
-![image](https://user-images.githubusercontent.com/42309948/147029630-d260317c-4926-4c43-83c7-57601cd5d586.png)
- 
-  
+   
 <h2> view running container <h2/>
   
 ![image](https://user-images.githubusercontent.com/42309948/147030213-2873f2bc-d7b7-4ab2-8d55-d6f5b6021dac.png)
+  
+
+<h2> change container image and configuration <h2/>
+  
+  # step 1
+  
+![image](https://user-images.githubusercontent.com/42309948/147094990-133235ee-7f2e-4f5b-9d1b-1ab693c3a6d1.png)
+  
+  # step 2
+  
+![image](https://user-images.githubusercontent.com/42309948/147095260-210f23c9-b3c8-41b3-8674-9a7020fb29a0.png)
+
+  # step 3
+  
+![image](https://user-images.githubusercontent.com/42309948/147095604-83b8d78b-7bf5-4b78-aec3-ba31fff7d085.png)
+  
+  * update and create task
+  
+  # update cluster
+  
+ ![image](https://user-images.githubusercontent.com/42309948/147095861-f5849dc4-7d2f-4553-8d49-f849e3fc07cb.png)
+  
+  # select latest revision
+  
+![image](https://user-images.githubusercontent.com/42309948/147096054-89b7e577-72c8-48fa-bb20-42ff9619da89.png)
+
+    * click next
+    * click next
+    * update service
+  
+ 
+  
+  
+  
+  
+  
+  
+  
   
   
   
