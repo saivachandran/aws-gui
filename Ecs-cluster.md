@@ -151,6 +151,18 @@
   # 6. Review and create service
   
   ![image](https://user-images.githubusercontent.com/42309948/147023614-a145ee12-18a1-4115-8cbf-e73e1f510379.png)
+  
+    * now task is running click container instance
+    * Allow 8080 port in security group
+    * if you want update task 1 to 2 scale autoscaling group it wil 2nd task
+  
+  # now ecs container launched now it's working
+  
+ ![image](https://user-images.githubusercontent.com/42309948/147029710-0e277a66-c647-4d14-a0e3-e3db41f4e014.png)
+
+  
+![image](https://user-images.githubusercontent.com/42309948/147029630-d260317c-4926-4c43-83c7-57601cd5d586.png)
+  
 
 
 
