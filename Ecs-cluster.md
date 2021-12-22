@@ -135,6 +135,23 @@
   # 3. configure service
   
   ![image](https://user-images.githubusercontent.com/42309948/147023082-425d1414-2018-49b3-8891-c8a806003dab.png)
+  
+  # 4. configure Network
+  
+    * load balancer we can configure later
+  
+ ![image](https://user-images.githubusercontent.com/42309948/147023339-6a7555c0-dc53-4ad2-955c-c163ee4acf52.png)
+
+  
+  # 5. Autoscaling optional
+  
+  ![image](https://user-images.githubusercontent.com/42309948/147023510-87f0a9e4-88b2-4101-ba4e-7883dba492fb.png)
+
+  
+  # 6. Review and create service
+  
+  ![image](https://user-images.githubusercontent.com/42309948/147023614-a145ee12-18a1-4115-8cbf-e73e1f510379.png)
+
 
 
 
