@@ -2,4 +2,4 @@
 
 # flow chart
 
-![image](https://user-images.githubusercontent.com/42309948/147048348-49f6d106-fa8e-4249-b1e1-2c42d92e42bf.png)
+![image](https://user-images.githubusercontent.com/42309948/147048579-e3a87a9c-b0a8-4253-b73c-12139925a4a0.png)
