@@ -58,7 +58,7 @@
   
  ![image](https://user-images.githubusercontent.com/42309948/146908959-3bb9b007-1268-47f3-a96f-4d1c5be2999b.png)
   
-  # Ecs cluster 
+  # Ecs cluster created with auto scaling group
   
       * When we create an ECS cluster, it comes with an autoscaling group.
       * Ec2 instance was created in the manner specified in the configuration section.
