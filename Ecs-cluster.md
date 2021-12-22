@@ -100,7 +100,45 @@
           Networking information.
    
       
+<h2> 1.create task definition<h2/>
+  
+![image](https://user-images.githubusercontent.com/42309948/147020199-2a91790b-7753-4a0a-a963-221c33c74444.png)
+  
+  # 2. Choose the launch type compatibility.
+  
+    
+  ![image](https://user-images.githubusercontent.com/42309948/147020710-47906d1f-02ff-4d54-8588-5df981c4377d.png)
+ 
+  
+  # 3. configure task and container definition
+  
+ ![image](https://user-images.githubusercontent.com/42309948/147021048-9c44fbee-be50-4a25-947c-f8d6c9c11644.png)
+  
+  # 4. Add container section
+  
+ ![image](https://user-images.githubusercontent.com/42309948/147021559-63b2b0dd-44d3-4749-ba14-13ad4138ebd6.png)
+   
+    * if require we can configure advance option
+  
+    * click create
+  
+<h2> 1.service <h2/>
+  
+   * The Ecs service defines how many tasks should run and how they should run.
+   * The Ecs service ensures the desired number of tasks running across the EC2 instances.
+   * They can be linked to Elb and NLB, and ALB, respectively.
+  
+  # 2.Create service
+  
+  ![image](https://user-images.githubusercontent.com/42309948/147022747-38525f1b-e181-44c3-9f2b-6b9119e7c5b9.png)
+  
+  # 3. configure service
+  
+  ![image](https://user-images.githubusercontent.com/42309948/147023082-425d1414-2018-49b3-8891-c8a806003dab.png)
 
+
+
+  
   
 
   
