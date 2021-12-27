@@ -21,7 +21,7 @@ Loadbalancer front in your application that traffic to multiple ec2 instances in
 
 overall it's recommended use v2 new generation loadbalancer they provide more features
 
-# create loadbalancer type
+# step 1 select loadbalancer type
 
 
-![image](https://user-images.githubusercontent.com/42309948/147468836-28db248b-b280-41da-bf9f-8cfec840b358.png)
+![image](https://user-images.githubusercontent.com/42309948/147469230-256b6a93-f314-4b7b-afea-dad59ec2719d.png)
