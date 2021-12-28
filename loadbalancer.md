@@ -30,3 +30,9 @@ overall it's recommended use v2 new generation loadbalancer they provide more fe
 
 
 ![image](https://user-images.githubusercontent.com/42309948/147469230-256b6a93-f314-4b7b-afea-dad59ec2719d.png)
+
+ 
+ # step 3 create Application loadbalancer
+ 
+ ![image](https://user-images.githubusercontent.com/42309948/147531343-f980def6-abc3-4fd1-b2ae-0648eca60d6b.png)
+
