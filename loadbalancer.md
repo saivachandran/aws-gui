@@ -36,3 +36,16 @@ overall it's recommended use v2 new generation loadbalancer they provide more fe
  
  ![image](https://user-images.githubusercontent.com/42309948/147531343-f980def6-abc3-4fd1-b2ae-0648eca60d6b.png)
 
+# step 4 create target group
+
+![image](https://user-images.githubusercontent.com/42309948/147531529-04b8c72a-53e7-4936-8418-54e3576bef47.png)
+
+# step 5 Target group next window
+
+![image](https://user-images.githubusercontent.com/42309948/147531717-eef184c9-1721-431a-8d90-d2903c4fe71e.png)
+
+# step 6 loadbalancer dashboard
+
+![image](https://user-images.githubusercontent.com/42309948/147532340-de3de8a9-822c-4e5a-a76e-8d92dc4f40e9.png)
+
+
