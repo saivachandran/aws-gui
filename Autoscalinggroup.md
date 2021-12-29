@@ -55,6 +55,19 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147673316-d8279c88-d11a-4044-be13-0cde557dfbd7.png)
 
+# step 7 Asg next window
+
+![image](https://user-images.githubusercontent.com/42309948/147673465-229e1495-f127-43e4-b88d-8f84da6fa766.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147673538-5730235a-291c-413a-a9f7-5fe21a3ac4ea.png)
+
+# Review and create AsG
+
+![image](https://user-images.githubusercontent.com/42309948/147673743-c7fcc860-ef8c-478e-8e24-e54e60d88727.png)
+
+
+
+
 
 
 
