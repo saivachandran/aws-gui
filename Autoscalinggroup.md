@@ -6,8 +6,6 @@
 # Autoscaling group flowchart
 ![147668203-5a7a0489-b5d5-4ebc-8209-ecc5f051adb3](https://user-images.githubusercontent.com/42309948/147668275-b515735a-a437-4986-97ee-704d9ceeff1e.png)
 
-![image](https://user-images.githubusercontent.com/42309948/147666970-debd0934-f335-4f3f-8c12-881a5bfb3d26.png)
-
 # Asg with loadbalancer
 
 ![image](https://user-images.githubusercontent.com/42309948/147668203-5a7a0489-b5d5-4ebc-8209-ecc5f051adb3.png)
