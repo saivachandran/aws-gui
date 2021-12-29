@@ -4,7 +4,7 @@
 * Automattically register new instances with the loadbalancer.    
 
 # Autoscaling group flowchart
-![147668203-5a7a0489-b5d5-4ebc-8209-ecc5f051adb3](https://user-images.githubusercontent.com/42309948/147668275-b515735a-a437-4986-97ee-704d9ceeff1e.png)
+![image](https://user-images.githubusercontent.com/42309948/147668642-1b893083-c614-499f-8c41-37435b847117.png)
 
 # Asg with loadbalancer
 
