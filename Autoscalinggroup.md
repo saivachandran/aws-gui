@@ -31,6 +31,19 @@
  * Scaling policies
 
 
+# step 1 create Autoscalinggroup
+
+![image](https://user-images.githubusercontent.com/42309948/147671815-a0ed9996-034f-40cc-9fcb-fd2fb00e6cce.png)
+
+# step 2 create launch template for asg
+
+![image](https://user-images.githubusercontent.com/42309948/147672325-0ee718d5-90a8-426e-b1a4-8a3e7426fbf6.png)
+
+
+
+
+
+
 
 
 
