@@ -39,6 +39,26 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147672325-0ee718d5-90a8-426e-b1a4-8a3e7426fbf6.png)
 
+# step 3 Asg next window
+
+![image](https://user-images.githubusercontent.com/42309948/147672726-3396c427-e9c7-4672-b3b3-a6c5c1fb66c2.png)
+
+# step 4 Asg next window
+
+![image](https://user-images.githubusercontent.com/42309948/147672993-ddfbd6ed-5c6a-4f2b-a2e5-941df5decb38.png)
+
+# step 5 Asg next window
+
+![image](https://user-images.githubusercontent.com/42309948/147673114-ef603738-8448-40a8-bc69-14e3590cf771.png)
+
+# step 6 Asg next window
+
+![image](https://user-images.githubusercontent.com/42309948/147673316-d8279c88-d11a-4044-be13-0cde557dfbd7.png)
+
+
+
+
+
 
 
 
