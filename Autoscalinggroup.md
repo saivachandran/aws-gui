@@ -8,7 +8,7 @@
 
 # Asg with loadbalancer
 
-![image](https://user-images.githubusercontent.com/42309948/147668203-5a7a0489-b5d5-4ebc-8209-ecc5f051adb3.png)
+![image](https://user-images.githubusercontent.com/42309948/147668761-14e7a691-7888-4405-b742-c18d75e0fae3.png)
 
 
 
