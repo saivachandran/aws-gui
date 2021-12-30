@@ -8,3 +8,4 @@
 *   It's locked to the availability zone volume, so us-east-1a can't attach to another region, us-east-1b.
 *   To move the volume across, we first take a snapshot.
 *   A snapshot can be used to backup an Ebs volume.  
+*   snapshot take backup used space size 
