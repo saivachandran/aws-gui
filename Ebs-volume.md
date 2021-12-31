@@ -14,5 +14,22 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147824414-311e8e10-1212-4eb5-ac13-f8b7f7b2a7cd.png)
 
+# create volume one az eu-west-1a
+
+![image](https://user-images.githubusercontent.com/42309948/147824849-5d877aa4-0709-4d3e-a521-e2058aac37d5.png)
+
+# Attach volume with Ec2 instance 
+
+![image](https://user-images.githubusercontent.com/42309948/147825939-5b3e603c-e8ff-4d18-9e10-d90334a2d873.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147826094-af3c9c6c-f631-49d5-94eb-4d78b07aa196.png)
+
+
+
+
+
+
+
+
 
 
