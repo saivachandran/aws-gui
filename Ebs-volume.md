@@ -32,6 +32,28 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147826561-af379e05-4e4b-4672-9bde-24f2c35f0f03.png)
 
+# to attach that volume to another AZ first take snapshot
+
+![image](https://user-images.githubusercontent.com/42309948/147827840-9bb97107-46ed-4703-bf8a-e83f7637c0dc.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147828087-bcd42e7a-aa01-4959-91b2-24943ece4cad.png)
+
+# take snapshot that volume and craete volume from that snap to attache another az ec2 instance
+
+![image](https://user-images.githubusercontent.com/42309948/147828303-5308a0fb-efc7-4e20-9ad9-796883bcb4d4.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147829094-47e00470-0667-4d07-a61b-1bfab840e24e.png)
+
+
+
+
+
+
+
+
+
+
+
 
 # mkdir and mount that volume
 
