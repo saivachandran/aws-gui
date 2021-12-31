@@ -37,6 +37,13 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147826713-f3a9f7d8-7df4-4eaa-9141-ad69e17e891b.png)
 
+# unmount and detach volume
+
+![image](https://user-images.githubusercontent.com/42309948/147827138-8798038d-bdb0-4d90-b4a7-23fedec2efcb.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147827671-ad00f397-382a-446b-ae9c-84ecd0188085.png)
+
+
 
 
 
