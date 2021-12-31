@@ -9,3 +9,10 @@
 *   To move the volume across, we first take a snapshot.
 *   A snapshot can be used to backup an Ebs volume.  
 *   snapshot take backup used space size 
+
+# create two instance in differnet availabilty zones
+
+![image](https://user-images.githubusercontent.com/42309948/147824414-311e8e10-1212-4eb5-ac13-f8b7f7b2a7cd.png)
+
+
+
