@@ -48,6 +48,19 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147828087-bcd42e7a-aa01-4959-91b2-24943ece4cad.png)
 
+# create volume from that snapshot
+
+![image](https://user-images.githubusercontent.com/42309948/147829550-e472ff0f-cea5-44b1-99f4-c1fc8ebaa824.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147829654-a2057321-6e44-453d-90e7-34c4d237264b.png)
+
+# attach volume to anoth az ec2 instance
+
+![image](https://user-images.githubusercontent.com/42309948/147829759-10a6b693-a594-4405-a880-550915a6ef94.png)
+
+# mount and check the file is exist on the volume
+
+
 
 
 
