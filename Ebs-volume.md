@@ -24,6 +24,21 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147826094-af3c9c6c-f631-49d5-94eb-4d78b07aa196.png)
 
+# ssh into Ec2 machine check volume
+
+![image](https://user-images.githubusercontent.com/42309948/147826379-f906cbaf-0c27-4074-8c12-b3905fcc0a03.png)
+
+# format the volume
+
+![image](https://user-images.githubusercontent.com/42309948/147826561-af379e05-4e4b-4672-9bde-24f2c35f0f03.png)
+
+
+# mkdir and mount that volume
+
+![image](https://user-images.githubusercontent.com/42309948/147826713-f3a9f7d8-7df4-4eaa-9141-ad69e17e891b.png)
+
+
+
 
 
 
