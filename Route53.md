@@ -25,7 +25,7 @@
 * advance route53 options
 
   1. loadbalancing (throuh Dns client loadbalancing)
-  2. Health check althouh limited
+  2. Health check although limited
   3. Routing policy : simple, failover,geolocation, geoproximity,latency weighted
 
 * prefer alias over cname to aws resources (for performance reasons)
