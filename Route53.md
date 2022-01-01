@@ -10,3 +10,8 @@
    Alais: from one URL to another url
 
    CNAME: url to aws resource
+   
+# Route 53 Diagram
+
+![image](https://user-images.githubusercontent.com/42309948/147843105-1c6ca62c-5fdc-4b7f-aaf3-7ddcc7aa71f2.png)
+
