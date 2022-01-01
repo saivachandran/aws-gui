@@ -15,3 +15,18 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147843105-1c6ca62c-5fdc-4b7f-aaf3-7ddcc7aa71f2.png)
 
+
+* route53 can use
+
+  1. pubic doamin names own (buy)
+  2. private domain resolve instance within vpc
+
+
+* advance route53 options
+
+  1. loadbalancing (throuh Dns client loadbalancing)
+  2. Health check althouh limited
+  3. Routing policy : simple, failover,geolocation, geoproximity,latency weighted
+
+* prefer alias over cname to aws resources (for performance reasons)
+
