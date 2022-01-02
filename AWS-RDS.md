@@ -1,5 +1,5 @@
 * RDS is an abbreviation for Relational Database Service.
-* It manages the database service. DB uses SQL query language .
+  
   1. Postgres
   2. Oracle
   3. mysql 
@@ -7,7 +7,7 @@
   5. Aurora
   6. Microsoft sql server
 
-RDS Advantages
+# RDS Advantages
 
  1. managed service
  2. Os patching level
@@ -17,3 +17,9 @@ RDS Advantages
  6. multi Az setup for DR
  7. scaling capabilities
  8. But You can't ssh into your instances
+
+# RDS Flowchart
+![image](https://user-images.githubusercontent.com/42309948/147873035-b76e4bdb-3aab-4196-ba5b-10610e5eda80.png)
+
+
+
