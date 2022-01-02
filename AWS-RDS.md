@@ -40,16 +40,15 @@
  1. ssh -i "Task.pem" ubuntu@ec2-52-51-61-185.eu-west-1.compute.amazonaws.com
  2. mysql -h mydb-1.ce6vulmtd00m.eu-west-1.rds.amazonaws.com -u techteam -p 
  3. use Bookstore;
+ 4.  4.CREATE TABLE Books ( id Int(3), Bookname Varchar (15), price Varchar(20), publishyear Varchar(20) ); 
+ 5.  INSERT INTO Books VALUES ('1' , 'Agnisiragukal' , '200' , '2020' );
+ 6.  select * from Books;
+ 
+ 
+ 
+ 
 
- 4.CREATE TABLE Books ( id Int(3), Bookname Varchar (15), price Varchar(20), publishyear Varchar(20) ); 
-
- 5.INSERT INTO Books VALUES ('1' , 'Agnisiragukal' , '200' , '2020' );
-
- 6.select * from Books;
-
-
-
-
+ 
 
 
 
