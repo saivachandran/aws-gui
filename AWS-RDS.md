@@ -30,6 +30,24 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147877155-bf7d32d6-3468-46bd-9207-b6720145e78b.png)
 
+# stpe 3
+  
+  1. launch Ec2 instance an same availability zone
+  2. install mysql client 
+
+# stpe 4 
+
+ 1. ssh -i "Task.pem" ubuntu@ec2-52-51-61-185.eu-west-1.compute.amazonaws.com
+ 2. mysql -h mydb-1.ce6vulmtd00m.eu-west-1.rds.amazonaws.com -u techteam -p 
+ 3. use Bookstore;
+
+ 4.CREATE TABLE Books ( id Int(3), Bookname Varchar (15), price Varchar(20), publishyear Varchar(20) ); 
+
+ 5.INSERT INTO Books VALUES ('1' , 'Agnisiragukal' , '200' , '2020' );
+
+ 6.select * from Books;
+
+
 
 
 
