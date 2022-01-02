@@ -1,4 +1,4 @@
-* RDS is an abbreviation for Relational Database Service.
+# RDS is an abbreviation for Relational Database Service.
   
   1. Postgres
   2. Oracle
@@ -19,7 +19,8 @@
  8. But You can't ssh into your instances
 
 # RDS Flowchart
-![image](https://user-images.githubusercontent.com/42309948/147873035-b76e4bdb-3aab-4196-ba5b-10610e5eda80.png)
+
+![image](https://user-images.githubusercontent.com/42309948/147873078-11dbe3b8-5b8f-4617-9d2a-3a428326d9e7.png)
 
 
 
