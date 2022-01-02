@@ -22,5 +22,17 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/147873078-11dbe3b8-5b8f-4617-9d2a-3a428326d9e7.png)
 
+# step 1 create RDS Database
+
+![image](https://user-images.githubusercontent.com/42309948/147876834-5eeaec15-0895-4dfb-864c-55f5d528f1ea.png)
+
+# step 2 
+
+![image](https://user-images.githubusercontent.com/42309948/147877155-bf7d32d6-3468-46bd-9207-b6720145e78b.png)
+
+
+
+
+
 
 
