@@ -41,9 +41,29 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148046149-8ca4e86b-4e47-46f7-9e71-acdb00cc2404.png)
 
-# step Associate subnet
+# step 8 Associate subnet
 
 ![image](https://user-images.githubusercontent.com/42309948/148051499-ea462c30-2f40-4518-b6fd-bceeab9d765a.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148054831-30d29d60-a83d-4204-941b-528d10df6c7a.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148055111-bfc46a80-e565-4897-8570-b63954f2fdf8.png)
+
+# step 9 select rt edit route add igw and nat gateway
+
+![image](https://user-images.githubusercontent.com/42309948/148055368-073e4b14-b84e-42ec-b228-38d8a8ef7722.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148055514-ad1b2ff3-f06d-4d3d-bc19-7250b800bc05.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/148056470-2b9500ac-55a9-4ad0-a33f-4b4b0827613f.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/148056146-91359063-8096-4534-ac98-b26431149951.png)
+
+
+
+
 
 
 
