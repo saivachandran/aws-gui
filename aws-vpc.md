@@ -28,6 +28,25 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148043877-f1047588-1f4a-4d6d-a311-f8532ca35211.png)
 
+# step 6 create internet gateway attach to vpc
+
+![image](https://user-images.githubusercontent.com/42309948/148044295-30be4d21-58cc-42a3-889a-e71ad373b27b.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148044556-d0d45283-8647-4dfc-a863-b2509c553cbf.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148044647-6d9ade72-59ad-4f74-be9c-1154e51abc33.png)
+
+
+# step 7 Create natgateway 
+
+![image](https://user-images.githubusercontent.com/42309948/148046149-8ca4e86b-4e47-46f7-9e71-acdb00cc2404.png)
+
+
+
+
+
+
+
 
 
 
