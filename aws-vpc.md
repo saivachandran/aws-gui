@@ -41,6 +41,11 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148046149-8ca4e86b-4e47-46f7-9e71-acdb00cc2404.png)
 
+# step Associate subnet
+
+![image](https://user-images.githubusercontent.com/42309948/148051499-ea462c30-2f40-4518-b6fd-bceeab9d765a.png)
+
+
 
 
 
