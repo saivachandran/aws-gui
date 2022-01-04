@@ -47,6 +47,9 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148054831-30d29d60-a83d-4204-941b-528d10df6c7a.png)
 
+![image](https://user-images.githubusercontent.com/42309948/148056626-9d6ccfa7-6f3d-4dd4-a648-6f789593968a.png)
+
+
 ![image](https://user-images.githubusercontent.com/42309948/148055111-bfc46a80-e565-4897-8570-b63954f2fdf8.png)
 
 # step 9 select rt edit route add igw and nat gateway
