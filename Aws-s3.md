@@ -50,7 +50,7 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148344429-7a40279d-3d67-4441-9972-89ce79f02ffa.png)
 
-  1. upload same same file multiple times it enable versioning for that file
+  1. upload same file multiple times it enable versioning for that file
 
 ![image](https://user-images.githubusercontent.com/42309948/148344644-8417521a-a3f4-4d12-9263-10848de0f70d.png)
 
@@ -65,6 +65,18 @@
 # Enable s3 bucket default encryption
 
 ![image](https://user-images.githubusercontent.com/42309948/148362396-d7fde3f4-94da-4c7f-b04c-53e55d93d39f.png)
+
+# s3 security
+
+* user based
+   
+   1. IAM policies -which Api calls should be allowd  for as specific user from IAM console
+   
+* Resource based
+   1. Bucket policeis - bucket wide rules from s3 console -allow cross account
+   2. Object access control list - finer grain
+   3. Bucket Access control list - less common   
+
 
    
  
