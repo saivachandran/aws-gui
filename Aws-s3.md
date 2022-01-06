@@ -44,6 +44,18 @@
 5. protect from iunintended deletes
 6. Easy rollback to previous version
 
+# Enable versioning
+
+![image](https://user-images.githubusercontent.com/42309948/148344324-75badd9b-7e92-4d65-b12c-942e1736ce44.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148344429-7a40279d-3d67-4441-9972-89ce79f02ffa.png)
+
+  1. upload same same file multiple times it enable versioning for that file
+
+![image](https://user-images.githubusercontent.com/42309948/148344644-8417521a-a3f4-4d12-9263-10848de0f70d.png)
+
+
+
   
    
     
