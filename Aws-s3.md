@@ -61,6 +61,11 @@
    2. SSE-KMS aws key mangement service 
    3. SSE-C you want to mange own encryption key
    4. client side encryption
+
+# Enable s3 bucket default encryption
+
+![image](https://user-images.githubusercontent.com/42309948/148362396-d7fde3f4-94da-4c7f-b04c-53e55d93d39f.png)
+
    
  
 
