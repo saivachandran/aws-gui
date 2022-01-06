@@ -77,6 +77,22 @@
    2. Object access control list - finer grain
    3. Bucket Access control list - less common   
 
+* s3 bucket policy
+  * json based polices
+     
+     1. Resources - buckets and objects
+     2. Actions - Set of Api Allow or deny
+     3. Effect - Allow or deny
+     4. principle - The account or user apply the policy to
+
+* use s3 bucket ploicy to
+ 
+  1.Grant public Access to the bucket
+  2. force object encryped at upload
+  3. Grant access to another account (cross account)
+  
+  
+
 
    
  
