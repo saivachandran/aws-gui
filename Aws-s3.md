@@ -33,6 +33,28 @@
      
      
      ![image](https://user-images.githubusercontent.com/42309948/148336944-f66615e8-ce8b-4b9e-83d8-4cf18fae9878.png)
+     
+     
+# aws s3 versioning
+
+1. you can version your file in aws s3
+2. it's enabled at bucket level
+3. same key overwrite will increment version 1,2,3
+4. it's best practice version your buckets
+5. protect from iunintended deletes
+6. Easy rollback to previous version
+
+  
+   
+    
+  
+ 
+  
+  
+
+
+     
+  
 
 
 
