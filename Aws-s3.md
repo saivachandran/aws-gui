@@ -9,7 +9,6 @@
    5. must start with lowecaseletter or number
    
 * object (file) have key, key is fullpath
-* There is no concept of directories in bucket
 * Maximum size is 5Tb   
 * if uploading morethan 5Gb use multipart upload
-* 
+
