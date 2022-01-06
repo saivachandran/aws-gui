@@ -89,7 +89,23 @@
  
   1.Grant public Access to the bucket
   2. force object encryped at upload
-  3. Grant access to another account (cross account)
+  3. Grant access to another account (cross account)Upload failed
+
+
+# s3 bucket policy
+
+![image](https://user-images.githubusercontent.com/42309948/148385562-ea551eb3-d0d4-4984-92a0-9bab3e4c3532.png)
+
+![image](https://user-images.githubusercontent.com/42309948/148386634-808f9027-d2ac-4826-8248-233b716496b5.png)
+
+# copy policy and past into the bucket s3 policy
+
+![image](https://user-images.githubusercontent.com/42309948/148386977-c6e661bd-a076-45d4-aba6-06c2930033a1.png)
+
+
+
+
+
   
   
 
