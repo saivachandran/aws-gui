@@ -55,6 +55,16 @@
 ![image](https://user-images.githubusercontent.com/42309948/148344644-8417521a-a3f4-4d12-9263-10848de0f70d.png)
 
 
+# s3 encryption for objects
+
+   1. SSE-S3 encrypt s3 object using key handled managed by aws
+   2. SSE-KMS aws key mangement service 
+   3. SSE-C you want to mange own encryption key
+   4. client side encryption
+   
+ 
+
+
 
   
    
