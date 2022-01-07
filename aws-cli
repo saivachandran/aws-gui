@@ -1,0 +1,45 @@
+install aws cli (26.05.2020)
+============================
+
+ install pip3 and python
+-------------------------
+. apt update -y
+. apt install python3-pip
+. pip3 --version
+
+install aws cli
+---------------
+# pip3 install --upgrade --user awscli
+# ls -a ~
+# vim ~/.bashrc
+
+. at end of the line add below command
+
+export PATH=$HOME/.local/bin:$PATH
+
+# source ~/.bashrc
+
+# aws --version
+
+uninstall aws cli
+-----------------
+
+# pip3 uninstall awscli
+
+---------------------------------------------------------------
+
+aws cli cnfiguration
+--------------------
+
+# aws configure
+
+ Aws Access Key Id :
+ Aws Secret Access Key Id:
+ Default Region Name:
+ Default output format: 
+
+# ls ~/.aws
+
+# cat ~/.aws/config
+
+# cat ~/.aws/credentials
