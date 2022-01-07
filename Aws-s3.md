@@ -103,6 +103,35 @@
 ![image](https://user-images.githubusercontent.com/42309948/148386977-c6e661bd-a076-45d4-aba6-06c2930033a1.png)
 
 
+# s3 static website
+
+![image](https://user-images.githubusercontent.com/42309948/148540940-cddad5b5-adfc-4eb2-9138-7bf1f520f95d.png)
+
+* step 2
+
+   ![image](https://user-images.githubusercontent.com/42309948/148541243-73b147e3-529e-4762-a4c7-994da1ed22a5.png)
+   
+   
+
+* step 3 edit public access settings
+
+  ![image](https://user-images.githubusercontent.com/42309948/148541786-1b0ec714-e458-4bf7-aa51-8fb057374034.png)
+  
+* step 4 give public Access
+
+  ![image](https://user-images.githubusercontent.com/42309948/148541959-1565203d-f653-48f6-92b1-4af4aa0f9923.png)
+  
+* step 5 upload index.html file to bucket
+
+ 
+* step 6  access sgtatic website
+ 
+ ![image](https://user-images.githubusercontent.com/42309948/148542275-79bdd080-0569-4e9a-89e0-4d90c0dd16ec.png)
+ 
+
+  
+  
+
 
 
 
