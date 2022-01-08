@@ -43,3 +43,49 @@ aws cli cnfiguration
 # cat ~/.aws/config
 
 # cat ~/.aws/credentials
+
+
+
+aws cli practice with s3
+-------------------------
+
+create bucket
+
+# aws s3 mb s3://bucket-name
+
+list all s3 buckets
+
+# aws s3 ls
+
+list bucket all object
+
+# aws s3 ls s3://bucket-name
+
+list specific file
+
+#  aws s3 ls s3://bucket-name/path/
+
+delete empty bucket bucket
+
+# aws s3 rb s3://bucket-name
+
+delete bucket with files
+
+# aws s3 rb s3://bucket-name --force
+
+copy file from local machine
+
+# aws s3 cp file.txt s3://my-bucket/ --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers full=emailaddress=user@example.com
+
+
+sync local file into s3 bucket
+
+# aws s3 sync . s3://sai121
+
+remove single file in s3 bucket
+
+# aws s3 rm s3://sai121/beach.jpg
+
+download file from s3 to loacal
+
+# aws s3 cp s3://sai121/beach.jpg beach.jpg
