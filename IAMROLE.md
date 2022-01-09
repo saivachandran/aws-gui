@@ -18,3 +18,11 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148670007-7f0ac4a2-ecdb-42f9-a872-002c3d419a81.png)
 
+# attach IAM role with ec2 instance
+
+![image](https://user-images.githubusercontent.com/42309948/148670075-c5b3e236-de34-4040-b651-b34d4cebff5a.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/148670094-95479ec0-a15d-4880-ba6d-494f24107f01.png)
+
+
