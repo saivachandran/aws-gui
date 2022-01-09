@@ -29,5 +29,27 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148670135-840ae536-bdc7-44b4-ba04-b44a2efd28f7.png)
 
+# create IAM policies
+
+![image](https://user-images.githubusercontent.com/42309948/148670850-cf5484fe-55c9-46ee-89bb-704fc713445f.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/148670898-d603d512-ae38-4fee-8240-91bb0b6139d2.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/148670930-242b2e92-31f3-4859-9a48-c0d8f988ab24.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/148670916-17504501-4b61-4f67-be14-45b73b0fc7f5.png)
+
+ *  create policy generator
+
+![image](https://user-images.githubusercontent.com/42309948/148670965-168a8429-9ec9-41ce-83eb-0c5a43d732fa.png)
+
+* check policy using policy stimulator
+
+
+
+
 
 
