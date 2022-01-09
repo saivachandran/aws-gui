@@ -25,4 +25,9 @@
 
 ![image](https://user-images.githubusercontent.com/42309948/148670094-95479ec0-a15d-4880-ba6d-494f24107f01.png)
 
+# check s3 read permission to Ec2 instance
+
+![image](https://user-images.githubusercontent.com/42309948/148670135-840ae536-bdc7-44b4-ba04-b44a2efd28f7.png)
+
+
 
