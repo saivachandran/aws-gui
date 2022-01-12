@@ -64,6 +64,38 @@
 * after 3 un successfull recieves it will goes to Dlq queue
 
 
+# Aws SQS - FIFO Queue
+
+* Newer offering - Not available all regions 
+* Name of the queue must end with .fifo
+* Messages are processed by order
+* Messages sent exactly one
+* Deduplication can't sent same messages twice
+* Deduplication interval is 5 minutes
+* deduplication id is important
+
+
+# step 1
+
+![image](https://user-images.githubusercontent.com/42309948/149147402-89ece60f-ecfd-4022-9417-1f9f098b0069.png)
+
+
+# step 2
+
+![image](https://user-images.githubusercontent.com/42309948/149147650-4595452e-c94c-4add-b0ca-1ba49237348d.png)
+
+
+* send message with same message id it's wont come in queue
+
+# step 3 enable content duplication
+
+![image](https://user-images.githubusercontent.com/42309948/149148459-8734d627-7970-4e81-97d6-24fdf7fc9afa.png)
+
+
+
+
+
+
 
 
 
