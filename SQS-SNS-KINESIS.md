@@ -41,6 +41,36 @@
 ![image](https://user-images.githubusercontent.com/42309948/149083241-56cfaac2-dff3-459a-a01b-8a9152926541.png)
 
 
+# step 1 Dead letter queue
+
+![image](https://user-images.githubusercontent.com/42309948/149086786-4cffdc1b-9f78-4b2c-8917-54fc0f6b53fe.png)
+
+# step 2
+
+![image](https://user-images.githubusercontent.com/42309948/149086933-92021a41-1d21-438f-bf2c-82f3a66a6097.png)
+
+# step 3
+
+![image](https://user-images.githubusercontent.com/42309948/149087061-4d799af4-26c7-409a-91b7-5e5c5741875e.png)
+
+# step 4
+
+![image](https://user-images.githubusercontent.com/42309948/149087305-c2736df7-c836-46b2-826e-07282802c761.png)
+
+# step 4
+
+![image](https://user-images.githubusercontent.com/42309948/149087611-d7d57259-49d6-4b55-bc3d-11e82bac2f31.png)
+
+* after 3 un successfull recieves it will goes to Dlq queue
+
+
+
+
+
+
+
+
+
 
 
 
