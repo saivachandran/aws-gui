@@ -92,6 +92,58 @@
 ![image](https://user-images.githubusercontent.com/42309948/149148459-8734d627-7970-4e81-97d6-24fdf7fc9afa.png)
 
 
+# AWS SNS
+
+* Amazon Simple Notification Service (Amazon SNS) is a fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication.
+
+* SNS integration with lot of services
+* cloudwatch for alarms
+* Auto scaling group notifications
+* cloudformation 
+
+# aws sns publish
+
+* create topic
+* create subscription
+* publish to the topic
+
+
+# step 1
+
+![image](https://user-images.githubusercontent.com/42309948/149272094-540fcdd7-1d1a-44e4-a0cc-651c74c7a038.png)
+
+
+# step 2
+
+![image](https://user-images.githubusercontent.com/42309948/149272235-172df8ac-f5b8-4ba2-b135-d1b2a0a64c61.png)
+
+
+# step 3 create subscrition for that topic
+
+![image](https://user-images.githubusercontent.com/42309948/149272322-a67b1b6d-885c-4b89-b5e6-c55bee2183a5.png)
+
+
+# step 4
+
+![image](https://user-images.githubusercontent.com/42309948/149272760-ce65c3b6-52cd-4fbd-a5f8-aaf5b5c633e6.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/149272869-154d2f8c-8178-4409-997d-ce243035ee19.png)
+
+
+* confirm email verification 
+
+
+# publish message check email
+
+![image](https://user-images.githubusercontent.com/42309948/149273842-bf1b789e-e348-4d7e-a048-7cc6816ae8b6.png)
+
+
+![image](https://user-images.githubusercontent.com/42309948/149273961-087015fc-e15c-4795-8fd6-944e7deb126c.png)
+
+
+
+
 
 
 
